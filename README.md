@@ -25,6 +25,10 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/leticiaamancio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leticiaamancio/" height="30" width="40" /></a>
 </p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lleamancio)](https://github.com/lleamancio/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lleamancio)](https://github.com/lleamancio/github-readme-stats)
+    
 ## Languages and Tools
 
 ### Backend
